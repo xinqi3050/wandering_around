@@ -44,7 +44,7 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
 
 ## 交互及界面设计
 - #### 产品结构思维导图
-![image](https://github.com/yuyu12138/API_ML_AI/blob/master/image/youshuolct.png)
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 - #### 部分API调用流程示意图
 1. #### 语音合成API（以语音解说景点为例）
 ![image](https://images.gitee.com/uploads/images/2019/1210/125155_35570f23_1532326.jpeg)
