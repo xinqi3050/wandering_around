@@ -47,7 +47,7 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 - #### 部分API调用流程示意图
 1. #### 语音合成API（以语音解说景点为例）
-![image](https://images.gitee.com/uploads/images/2019/1210/125155_35570f23_1532326.jpeg)
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%9C%B0%E7%82%B9%E6%9F%A5%E8%AF%A2.jpg)
 #### 2. 地点查询API（以搜索景区地图内景点为例
 ![image](https://github.com/yuyu12138/API_ML_AI/blob/master/image/chaxun.jpg)
 
