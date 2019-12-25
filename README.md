@@ -64,12 +64,16 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 - #### 部分API调用流程示意图
 1. 语音合成API（以语音解说景点为例）
-![image]()
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90api%E8%AF%B4%E6%98%8E%E5%9B%BE.png)
 2. 地标识别API（以搜索景区地图内景点为例）
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%9C%B0%E7%82%B9%E6%9F%A5%E8%AF%A2.jpg)
 
 ## 产品原型展示
-### [原型文档](http://xinqi3050.gitee.io/travel-around-prototype)
+
+### [原型文档查看](http://xinqi3050.gitee.io/travel-around-prototype)
+### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
+
+### 产品原型展示
 
 ## API输出入展示
 [百度API产品说明文档](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)
@@ -114,7 +118,7 @@ CUID = "123456PYTHON";
 
 ```
 > ### 百度语音合成API的Python调用代码
-[→ 点击此处查看](https://github.com/yuyu12138/API_ML_AI/blob/master/YouShuo/tts.py)
+[→ 点击此处查看](https://github.com/xinqi3050/wandering_around/blob/master/tts.py)
 
 
 > ### 高德地点查询
