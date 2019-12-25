@@ -74,6 +74,11 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
 ### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
 
 ### 产品原型展示
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B1.png)
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B2.png)
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B3.png)
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B4.png)
+![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B5.png)
 
 ## API输出入展示
 [百度API产品说明文档](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)
@@ -195,4 +200,7 @@ aMap.setOnCameraChangeListener(new AMap.OnCameraChangeListener() {
 - [ ] .....
 
 ## 清单
-### [原型文档](http://xinqi3050.gitee.io/travel-around-prototype)
+### [原型文档查看](http://xinqi3050.gitee.io/travel-around-prototype)
+### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
+### [百度API产品说明文档](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)
+### [Python调用代码](https://github.com/xinqi3050/wandering_around/blob/master/tts.py)
