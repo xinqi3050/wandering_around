@@ -74,11 +74,28 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
 ### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
 
 ### 产品原型展示
+
+- 百度语音识别API：在主要功能页中，按住说话按钮就可使用到。
+- 百度语音合成API：在主要功能页中，按住语音播放按钮就可使用到。
+- 百度地标识别API：在主要功能页中，点击拍照功能就可使用到。
+
+                       首页                                                    主要功能页
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B1.jpg)
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B2.jpg)
+
+                       旅友                                                      我的
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B3.jpg)
 ![image](https://github.com/xinqi3050/wandering_around/blob/master/%E5%8E%9F%E5%9E%8B4.png)
 
+### 口头操作说明
+> 首页可以查看搜索次数最多，用户评论最多的景区，用户也可以通过搜索框查找自己想要的景区；轮播图会展示热搜榜前三的景区；
+推荐列表功能会根据用户的地理位置推荐用户最佳的旅游景点；旅游要记有大量的旅游事迹文章，可供用户参考旅游事宜。
+
+> 主要功能页可以向用户展示当前位置，以及景区的内部地图，用户可以在景区内查找建筑物；用户可以使用地标识别，找出景区内的相关故事，并通过语音播放功能在旅途中感受景区的文化，用户也可上传图片找到地标图片中的相关故事，并播放语音。
+  
+> 驴友页可以让用户在旅行过程中结交新的朋友，也可以向朋友展示自己当前的旅游景区。
+  
+> 我的页面可以自由设置软件主题风格，语音播放速度等功能。
 ## API输出入展示
 [百度API产品说明文档](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)
 > ### 测试百度语音合成rest api识别接口流程
