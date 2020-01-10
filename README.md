@@ -6,7 +6,7 @@ Title | content
 ---|---
 Target release(发布日期) | 2019/11/25
 Epic(史诗名称) | 云游四方（我的云导游APP）
-Document status(文档状态) | 正在进行中
+Document status(文档状态) | 已完成
 Document owner( 文件的主人) | [林新棋](https://gitee.com/xinqi3050)
 Designer( 领头的设计师) | [林新棋](https://gitee.com/xinqi3050)
 Developer( 领头的开发者) | [林新棋](https://gitee.com/xinqi3050)
