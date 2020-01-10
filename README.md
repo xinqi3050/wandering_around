@@ -1,4 +1,5 @@
 # APP：“云游四方”
+[40x40秒的带narration 语音口白的Powerpoint ](https://github.com/xinqi3050/wandering_around/blob/master/%E4%BA%91%E6%B8%B8%E5%A4%A9%E4%B8%8B.pptx)
 # Product Requirements：产品需求
 
 Title | content
